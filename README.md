@@ -5,14 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/vladikustut" target="blank"><img src="https://img.shields.io/twitter/follow/vladikustut?logo=twitter&style=for-the-badge" alt="vladikustut" /></a> </p>
 
-- 🔭 I’m currently working on **Telegram bot**
-
-- 🌱 I’m currently learning **Python**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Vladvlad9?tab=repositories](https://github.com/Vladvlad9?tab=repositories)
-
-- 📫 How to reach me **vlad9.ru@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/vladikustut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vladikustut" height="30" width="40" /></a>
