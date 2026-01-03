@@ -19,7 +19,9 @@
 
 <h4 align="left">Framework</h4> 
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/> </a>
-<a href="https://docs.aiogram.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/aiogram/aiogram/blob/dev-3.x/docs/static/logo.png?raw=true" alt="aiogram" width="40" height="40"/> </a>
+<a href="https://docs.aiogram.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/aiogram/aiogram/raw/dev-3.x/docs/static/logo.png" alt="aiogram" width="40" height="40"/> 
+</a>
 
 <h4 align="left">Devops</h4>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
