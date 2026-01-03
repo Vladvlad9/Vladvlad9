@@ -20,7 +20,7 @@
 <h4 align="left">Framework</h4> 
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/> </a>
 <a href="https://docs.aiogram.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="aiogram" width="40" height="40"/> 
+    <img src="https://docs.aiogram.dev/en/v3.24.0/_static/logo.png" alt="aiogram" width="40" height="40"/> 
 </a>
 
 <h4 align="left">Devops</h4>
