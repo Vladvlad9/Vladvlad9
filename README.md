@@ -20,7 +20,7 @@
 <h4 align="left">Framework</h4> 
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/> </a>
 <a href="https://docs.aiogram.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/aiogram/logos/main/aiogram.svg" alt="aiogram" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/Aiogram-Dark.svg" alt="aiogram" width="40" height="40"/> 
 </a>
 
 <h4 align="left">Devops</h4>
